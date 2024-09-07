@@ -1,7 +1,7 @@
 'use client'
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Code, FileSpreadsheet, Zap, Puzzle, BarChart, Target, PenTool, Lightbulb, CheckCircle } from "lucide-react"
+import { Code, FileSpreadsheet, Zap, Puzzle, Target, PenTool, Lightbulb, CheckCircle } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 import { useEffect, useRef } from "react"
